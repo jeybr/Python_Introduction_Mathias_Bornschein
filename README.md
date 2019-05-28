@@ -2,4 +2,7 @@
 
 date: 2019-05-28
 
-author: Mathias Bornscheinø
+author: Mathias Bornschein
+
+- Pandas
+- JSON
